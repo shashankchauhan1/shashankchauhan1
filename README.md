@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shashankchauhan134@gmail.com**
 
-- 🌴 All of my Social Media Links **https://linktr.ee/shashankchauhan**
+- 🌴 All of my Social Media Links **https://linktr.ee/shashankchauhan>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
