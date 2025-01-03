@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shashankch75852" target="blank"><img src="https://img.shields.io/twitter/follow/shashankch75852?logo=twitter&style=for-the-badge" alt="shashankch75852" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **shashankchauhan134@gmail.com**
 
